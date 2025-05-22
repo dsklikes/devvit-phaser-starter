@@ -6,10 +6,8 @@ import { defineConfig } from '@devvit/server';
 
 defineConfig({
   name: 'Phaser Starter',
-  description: 'Phaser Starter',
   entry: 'index.html',
   height: 'tall',
-  inline: true,
   menu: {
     enable: true,
     label: 'New Phaser Starter Post',
